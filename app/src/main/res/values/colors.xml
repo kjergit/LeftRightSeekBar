@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorAccent2">#F08001</color>
+    <color name="aircraft_general_setting_bg">#E6000000</color>
+    <color name="aircraft_transparent">#00000000</color>
+    <color name="aircraft_white">#FFFFFF</color>
+    <color name="aircraft_black">#000000</color>
+    <color name="aircraft_content_bg">#E6000000</color>
+    <color name="aircraft_content_line_bg">#33FFFFFF</color>
+    <color name="aircraft_general_setting_input_color">#4374E6</color>
+    <color name="aircraft_calibration_commit_color">#3A75F2</color>
+    <color name="frame_line">#3A75F2</color>
+    <color name="curve_line">#305195</color>
+    <color name="back_ground">#0d0d03</color>
+    <color name="default_back_ground">#1a000000</color>
+    <color name="noraml_back_ground">#1f1f1f</color>
+    <color name="center_line">#919191</color>
+
+
+</resources>

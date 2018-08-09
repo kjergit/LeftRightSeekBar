@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--<dimen name="aircraft_seekbar_thumb_radius">24px</dimen>-->
+    <!--<dimen name="aircraft_seekbar_nail_radius">8px</dimen>-->
+    <!--<dimen name="aircraft_seekbar_nail_stroke_width">2px</dimen>-->
+    <!--<dimen name="aircraft_seekbar_line_width">2px</dimen>-->
+
+    <dimen name="aircraft_seekbar_thumb_radius">24px</dimen>
+    <dimen name="aircraft_seekbar_nail_radius">0px</dimen>
+    <dimen name="aircraft_seekbar_nail_stroke_width">0px</dimen>
+    <dimen name="aircraft_seekbar_line_width">8px</dimen>
+</resources>

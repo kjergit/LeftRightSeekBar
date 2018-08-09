@@ -1,0 +1,52 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <com.example.simon.myapplication.CenterSeekBar
+        android:id="@+id/seekbar"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:background="#000000"
+        app:backColor="#FFFFFF"
+        app:backFrameColor="#C9C6C6"
+        app:backFrameSize="1dp"
+        app:backHeight="5dp"
+        app:maxProgress="100"
+        app:minProgress="0"
+        app:progress="0"
+        app:progressColor="#FCB2A7"
+        app:thumbColor="#F96650"
+        app:thumbNormalRadius="10dp"
+        app:thumbPressRadius="12dp" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Button" />
+
+
+    <com.example.simon.myapplication.MiddleSeekBar
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_marginTop="60dp"
+        android:background="#70bfa6" />
+
+    <com.example.simon.myapplication.ExpSwitchView
+        android:id="@+id/exp_view"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_marginStart="80dp"
+        android:layout_marginTop="80dp"
+        android:background="#1a000000" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Button" />
+</LinearLayout>
